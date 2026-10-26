@@ -1,8 +1,0 @@
-{
-  "rho_readings_ohm_cm": [11.33, 11.48],
-  "temperature_K": 303,
-  "CT_per_K": 0.0084,
-  "CT_as_written_in_report": [0.84, 0.89],
-  "carrier_type": "n",
-  "probe_spacing_mm": 1.0
-}

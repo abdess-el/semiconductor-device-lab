@@ -1,6 +1,0 @@
-{
-  "ic_divisions": [1.6, 5.2],
-  "ic_scale_mA_per_div": 0.5,
-  "ib_uA": [5, 20],
-  "reading_uncertainty_div": 0.1
-}
